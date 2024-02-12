@@ -1,8 +1,0 @@
----
-projectName: "Wurst Inventory Utility"
-dependencies:
-- "https://github.com/wurstscript/wurstStdlib2"
-buildMapData:
-  name: "DefaultName"
-  fileName: "DefaultFileName"
-  author: "DefaultAuthor"

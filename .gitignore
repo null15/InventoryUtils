@@ -1,9 +1,0 @@
-.vscode
-
-# ignore wurst build artifacts
-/_build
-/wurst/war3map.j
-wurst.build
-wurst.dependencies
-wurst_run.args
-/wurst/InitDemos.wurst
